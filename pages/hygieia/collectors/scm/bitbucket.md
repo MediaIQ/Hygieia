@@ -87,8 +87,8 @@ The sample `application.properties` file lists parameters with sample values to 
 
 		# Mandatory parameters (comma separated, if multiple)
 		git.host=https://mybitbucketrepo.com,https://mybitbucketrepo2.com
-
-                #If using Bitbucket Cloud then go for below parameter for git.host
+		
+		#If using Bitbucket Cloud then go for below parameter for git.host
 		git.host=api.bitbucket.org/
 
 		git.username=user_for_git.host1,user_for_git.host2
