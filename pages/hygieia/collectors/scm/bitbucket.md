@@ -96,7 +96,8 @@ The sample `application.properties` file lists parameters with sample values to 
 		#convert password to base64
 		git.password=password_for_git.host1,password_for_git.host2
 		
-		#Since the older api version is now depreciated so current api is given below for Bitbucket Cloud.			#(REF:https://confluence.atlassian.com/bitbucket/rest-apis-222724129.html)
+		#Since the older api version is now depreciated so current api is given below for Bitbucket Cloud
+		#(REF:https://confluence.atlassian.com/bitbucket/rest-apis-222724129.html)
 		git.api=/api/2.0/repositories/
 		
 
